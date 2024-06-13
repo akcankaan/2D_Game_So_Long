@@ -10,6 +10,8 @@
 - [Özellikler](#özellikler)
 - [Kurallar](#kurallar)
 - [Gereksinimler](#gereksinimler)
+- [Katkıda Bulunma](#katkıda-bulunma)
+- [Lisans](#lisans)
 
 ## Kurulum
 Projeyi klonlayarak başlayın:
@@ -55,4 +57,10 @@ make
 - MiniLibX
 - Libft kütüphanesi
 - Makefile
+
+## Katkıda Bulunma
+Katkıda bulunmak isterseniz, lütfen bir issue oluşturun veya bir pull request gönderin. Her türlü katkı değerlidir!
+
+## Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakınız.
 
