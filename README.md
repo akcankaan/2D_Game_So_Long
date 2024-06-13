@@ -1,5 +1,7 @@
 # 2D_Game_So_Long
 
+<img width="2114" alt="so_long" src="https://github.com/akcankaan/2D_Game_So_Long/assets/63432799/d5ea91e7-76f9-4cb0-9b80-d442fb1d723a">
+
 "So Long" projesi, basit bir 2D oyun geliştirmeyi amaçlar. Oyuncu, haritadaki tüm toplama elemanlarını toplayarak en kısa yoldan çıkışa ulaşmaya çalışır. Oyun, MiniLibX kütüphanesini kullanarak görselleştirilir ve belirli kurallar dahilinde harita dosyalarını okur.
 
 ## İçindekiler
